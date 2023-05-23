@@ -9,7 +9,7 @@
     "url": "https://github.com/iamalipe/todo-app-express-mongo-ts.git"
   },
   "description": "This is the backend for A Simple Todo list taking app.",
-  "homepage": "",
+  "homepage": "https://todo-app-express-mongo-ts.onrender.com/",
   "private": true,
   "version": "1.0.0",
   "scripts": {
